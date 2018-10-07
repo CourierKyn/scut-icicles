@@ -1,8 +1,6 @@
 # 华南理工大学课程攻略共享计划
 
-> ### Notice
->
-> **This project hasn't been finished yet.**
+> **Notice: This project hasn't been finished yet.**
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
